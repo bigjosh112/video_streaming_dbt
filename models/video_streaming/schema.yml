@@ -1,0 +1,9 @@
+version: 2
+
+sources:
+  - name: video_streaming
+    database: dayodev
+    schema: public
+    description: video_streaming sample
+    tables:
+      - name: video_events
